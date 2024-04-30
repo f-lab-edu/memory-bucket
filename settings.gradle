@@ -13,3 +13,5 @@ plugins {
 
 rootProject.name = 'memory-bucket'
 
+include('api')
+include('lib')
